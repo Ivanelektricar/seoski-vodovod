@@ -6,7 +6,7 @@ const Gallery: React.FC = () => {
     {
       id: 1,
       src: "https://www.flickr.com/photos/schebet/54364893885/in/pool-schebet/",
-      caption: "Извор водовода на планини изнад села Шебет",
+      caption: "Извор водовода на планини изнад села Шебеeт",
       location: "Извор"
     },
     {
