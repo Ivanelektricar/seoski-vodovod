@@ -11,7 +11,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 2,
-      src: "src/components/Gallery/Canon%20PowerShot%20.JPG",
+      src: "src/components/Gallery/Canon PowerShot .JPG",
       caption: "Главни резервоар за воду капацитета 50.000 литара",
       location: "Резервоар"
     },
