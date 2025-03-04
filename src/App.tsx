@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Gallery from './components/Gallery;
+import Gallery from './components/Gallery';
 import About from './components/About';
 import Footer from './components/Footer';
 import WaterQuality from './components/WaterQuality';
