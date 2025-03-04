@@ -5,7 +5,7 @@ const Gallery: React.FC = () => {
   const photos = [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "https://www.flickr.com/photos/schebet/54364893885/in/pool-schebet/",
       caption: "Извор водовода на планини изнад села Шебет",
       location: "Извор"
     },
